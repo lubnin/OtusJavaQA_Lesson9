@@ -5,7 +5,7 @@
     <distributionManagement>
         <repository>
             <id>myrepository</id>
-            <url>file:C:/Apps/Otus/lesson9/JAR/</url>
+            <url>file:C:/Apps/Otus/lesson9/</url>
         </repository>
     </distributionManagement>
 
@@ -19,6 +19,7 @@
 
     <modules>
         <module>JAR</module>
+        <module>WAR</module>
     </modules>
 
 </project>
