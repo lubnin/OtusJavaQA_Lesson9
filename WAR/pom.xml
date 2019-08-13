@@ -28,7 +28,7 @@
                     <webXml>web.xml</webXml>
                     <webResources>
                         <resource>
-                            <directory>wartest</directory>
+                            <directory>${project.basedir}</directory>
                             <filtering>true</filtering>
                         </resource>
                     </webResources>

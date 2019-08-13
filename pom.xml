@@ -20,6 +20,7 @@
     <modules>
         <module>JAR</module>
         <module>WAR</module>
+        <module>POM</module>
     </modules>
 
 </project>
